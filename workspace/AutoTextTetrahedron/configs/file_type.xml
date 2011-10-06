@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Types>
+	<Type name="doc" bfconfig="configs/bf_doc.xml" lfconfig="configs/lf_doc.xml" sfconfig="configs/sf_doc.xml"></Type>
+	<Type name="ppt" bfconfig="configs/bf_ppt.xml" lfconfig="configs/lf_ppt.xml" sfconfig="configs/sf_ppt.xml"></Type>
+	<Type name="xls" bfconfig="configs/bf_xls.xml" lfconfig="configs/lf_xls.xml" sfconfig="configs/sf_xls.xml"></Type>
+	<Type name="html" bfconfig="configs/bf_html.xml" lfconfig="configs/lf_html.xml" sfconfig="configs/sf_html.xml"></Type>
+	<Type name="pdf" bfconfig="configs/bf_pdf.xml" lfconfig="configs/lf_pdf.xml" sfconfig="configs/sf_pdf.xml"></Type>
+</Types>

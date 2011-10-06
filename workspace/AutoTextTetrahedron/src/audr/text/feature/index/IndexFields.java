@@ -1,0 +1,6 @@
+package audr.text.feature.index;
+
+public interface IndexFields {
+	public String FILENAME="filename";
+	public String CONTENTS="contents";
+}

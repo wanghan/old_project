@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bf>
+	<attribute name="Author" type="java.lang.String"  classname="audr.extractor.bf.BFExtractorOfPDF" method="ExtractAuthor"></attribute>
+	<attribute name="Title" type="java.lang.String" classname="audr.extractor.bf.BFExtractorOfPDF" method="ExtractTitle"></attribute>
+	<attribute name="TextType" type="java.lang.String" classname="audr.extractor.bf.BFExtractorOfPDF" method="ExtractTextType"></attribute>
+	<attribute name="Subject" type="java.lang.String" classname="audr.extractor.bf.BFExtractorOfPDF" method="ExtractSubject"></attribute>
+</bf>

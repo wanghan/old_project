@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/org.apache.pdfbox.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-contrib-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.beans-sources-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jlibsvm-0.91-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer3.2.0Stable.jar"/>
+	<classpathentry kind="lib" path="lib/Jama-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-demos-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

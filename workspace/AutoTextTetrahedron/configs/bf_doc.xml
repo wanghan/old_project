@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bf>
+	<attribute name="Author" type="java.lang.String"  classname="audr.extractor.bf.BFExtractorOfDOC" method="ExtractAuthor"></attribute>
+	<attribute name="Title" type="java.lang.String" classname="audr.extractor.bf.BFExtractorOfDOC" method="ExtractTitle"></attribute>
+	<attribute name="TextType" type="java.lang.String" classname="audr.extractor.bf.BFExtractorOfDOC" method="ExtractTextType"></attribute>
+	<attribute name="Subject" type="java.lang.String" classname="audr.extractor.bf.BFExtractorOfDOC" method="ExtractSubject"></attribute>
+	<attribute name="WordCount" type="java.lang.Integer" classname="audr.extractor.bf.BFExtractorOfDOC" method="ExtractWordCount"></attribute>
+</bf>

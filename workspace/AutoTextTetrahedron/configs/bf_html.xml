@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bf>
+	<attribute name="Title" type="java.lang.String" classname="audr.extractor.bf.BFExtractorOfHTML" method="ExtractTitle"></attribute>
+	<attribute name="TextType" type="java.lang.String" classname="audr.extractor.bf.BFExtractorOfHTML" method="ExtractTextType"></attribute>
+</bf>
